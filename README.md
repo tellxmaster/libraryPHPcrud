@@ -8,14 +8,21 @@
 
 This is a basic bookstore project made with [Yii 2](http://www.yiiframework.com/) has a login screen and two views, one for creating books and one for viewing them.
 
-<h2>First View</h2>
+## First View</h2>
+
 <img src="./assets/images/screen-03.png" height="400px">
 
-<h2>Second View</h2>
+## Second View</h2>
+
 <img src="./assets/images/screen-02.png" height="400px">
 
-<h2>Third View</h2>
+## Third View
+
 <img src="./assets/images/screen-01.png" height="400px">
+
+## DATABASE
+
+This project has no migrations yet, so the script `libroteca.sql` that is in the root folder  has to be imported into MySQL.
 
 ## DIRECTORY STRUCTURE
 
